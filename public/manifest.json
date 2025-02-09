@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "FLAMES calculator",
+  "name": "Discover your relationship status using the popular FLAMES game! Free instant compatibility calculator for couples and friends.",
   "icons": [
     {
       "src": "favicon.ico",
